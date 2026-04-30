@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "GuruDokAI — Solusi Cepat Bikin Soal & Administrasi Tanpa Ribet",
+      "description": "Buat soal & administrasi sekolah lebih mudah dengan AI",
+      "image_url": "https://raw.githubusercontent.com/devsupat/sirpp-products/main/images/gurudokai.jpg",
+      "original_price": "IDR 350.000",
+      "sale_price": "IDR 185.000",
+      "url": "https://lynk.id/oghiezr"
+    },
+    {
+      "id": "2",
+      "title": "Aplikasi Arsip Sekolah Auto Rapi (Foto, Video, Dokumen) - Setup Dibantu!",
+      "description": "Kelola arsip sekolah jadi auto rapi & gampang dicari",
+      "image_url": "https://raw.githubusercontent.com/devsupat/sirpp-products/main/images/arsip.jpg",
+      "original_price": "IDR 450.000",
+      "sale_price": "IDR 155.000",
+      "url": "https://lynk.id/oghiezr"
+    }
+  ]
+}
